@@ -10,13 +10,14 @@ header {
 
 /* this code adds color and box model to the navbar. colors the text and places it.*/
 .navbar-nav {
+    margin-right: 25px;
     background-color: steelblue;
     padding: 30px;
-    margin: 30px;
+    /* margin: 30px; */
     border: 15px;
     border-color: lawngreen;
     border-style: inset;
-    width: 100%;
+    width: 95%;
     display: inline-block;
     justify-content: center;
     font-size: xx-large;
